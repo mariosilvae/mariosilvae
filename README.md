@@ -1,6 +1,6 @@
 ## Hi there! I´m Mario Silva 👋
 
-iOS Mobile Developer at Globant | Frontend Developer.
+### iOS Mobile Developer at Globant | Frontend Developer.
 
 - 🌱 I'm currently on my ninja way to become a Fullstack Developer.
 
