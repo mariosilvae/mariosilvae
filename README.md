@@ -1,10 +1,12 @@
 ## Hi there! I´m Mario Silva 👋
 
-Frontend developer with experience building responsive websites. Proficient in HTML, CSS, JavaScript; plus libraries like ReactJs.
+iOS Mobile Developer at Globant | Frontend Developer.
 
-- 🌱 I'm currently on my ninja way to become a Fullstack MERN Developer.
+- 🌱 I'm currently on my ninja way to become a Fullstack Developer.
 
 ### 🚀 My stack
+ - Swift
+ - SwiftUI
  - JavaScript.
  - React JS.
  - Styled Components.
